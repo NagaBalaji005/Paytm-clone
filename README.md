@@ -142,8 +142,8 @@ Check transaction history
 
 📬 Connect with Me
 Naga Balaji
-• LinkedIn : [https://www.linkedin.com/in/adapala-naga-balaji-339b4131a/](https://www.linkedin.com/in/adapala-naga-balaji-339b4131a/)
-• GitHub : [https://github.com/NagaBalaji005](https://github.com/NagaBalaji005)
+• LinkedIn : [Your_Link_Here](https://www.linkedin.com/in/adapala-naga-balaji-339b4131a/)
+• GitHub : [Your_Link_Here](https://github.com/NagaBalaji005)
 
 📄 License
 This project is licensed under the MIT License.
